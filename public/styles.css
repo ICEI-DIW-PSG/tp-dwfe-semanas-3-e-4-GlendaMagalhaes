@@ -1,0 +1,133 @@
+*{
+    margin: 0px;
+    border: 0px;
+    
+
+}
+img{
+    border-radius: 100%;
+    max-width: 175px;
+    border: 1px solid black;
+    background-color: rgb(194, 178, 191);
+}
+header{
+background-color: rgb(194, 178, 191);
+position: absolute;
+top: 0px;
+left: 220px;
+width: 500px;
+height: 500px;
+z-index: 100%;
+
+
+}
+
+main{
+    background-color: rgb(194, 178, 191);
+    position: absolute;
+    left: 220px; /* distância */
+    height: 430px; /* altura */
+    width: 500px; /* largura */
+    top: 250px; /* distância até o topo */
+   
+
+
+}
+aside{
+    background-color: rgb(194, 178, 191);
+    position: absolute;
+    left: 220px;
+    width: 480px;
+    height: 500px;
+    top: 150px;
+ 
+  
+}
+
+article{
+background-color: rgb(194, 178, 191);
+    position: absolute;
+    left:0px;
+    top: 0px;
+    width: 220px;
+    height:680px;
+    
+
+}
+article img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+
+body {
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 0;
+}
+
+.Nome h1 {
+  font-family: Arial, sans-serif;
+  letter-spacing: 2px;
+  font-size: 28px;
+}
+
+.T1 h2 {
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+
+
+.Informações {
+  font-size: 14px;
+}
+
+
+.Obj h2 {
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.T2 {
+  font-size: 14px;
+}
+
+.Experiencia h2,
+.Competências h2 {
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+.T3 h3,
+.T4 h3,
+.T5 h3 {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+
+.T3 h4,
+.T4 h4,
+.T5 h4 {
+  font-style: italic;
+  font-size: 13px;
+}
+
+.T3 ul,
+.T4 ul,
+.T5 ul {
+  font-size: 14px;
+}
+
+.Formação h2 {
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 16px;
+}
